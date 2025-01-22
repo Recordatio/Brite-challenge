@@ -1,1 +1,1 @@
-# Brite-challenge
+# Brite-QA-challenge
